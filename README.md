@@ -33,6 +33,9 @@ To install the necessary dependencies and run the provided tests, follow these s
 3. Open a terminal or command prompt and navigate to the project's root directory.
 4. Run the following command to install the dependencies:
 
+```
+npm install
+```
 
 ## Testing
 
