@@ -24,9 +24,15 @@ The solution is implemented in JavaScript and consists of a single function `bal
 
 The function uses an array-based stack to keep track of opening brackets encountered. It iterates over each character in the input string and performs the necessary checks to determine if the brackets are balanced and properly nested.
 
-## Assumptions and Limitations
+## Installation
 
-This solution assumes that the input string only contains bracket characters ('{', '}', '[', ']', '(', ')') and does not include any other characters. It does not handle cases where other characters are present in the string.
+To install the necessary dependencies and run the provided tests, follow these steps:
+
+1. Make sure you have Node.js installed on your machine.
+2. Clone this repository to your local machine or download the source code.
+3. Open a terminal or command prompt and navigate to the project's root directory.
+4. Run the following command to install the dependencies:
+
 
 ## Testing
 
